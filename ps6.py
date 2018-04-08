@@ -1,3 +1,14 @@
+'''
+author : Arpan pain
+
+this is a code for encryption like ceaser cipher
+functions:
+    load_words - input: filename
+                 output: a list of words from the input file
+    is_word -    input : wordlist , word
+                 output: True/ False depends on the word in wordlist or not
+'''
+
 import string
 
 ### DO NOT MODIFY THIS FUNCTION ###
